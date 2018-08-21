@@ -1,9 +1,13 @@
 # Definition for a binary tree node.
+import json
+
+
 class TreeNode(object):
-	def __init__(self, x):
-		self.val = x
-		self.left = None
-		self.right = None
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
 
 def stringToTreeNode(input):
     input = input.strip()
@@ -36,6 +40,7 @@ def stringToTreeNode(input):
             node.right = TreeNode(rightNumber)
             nodeQueue.append(node.right)
     return root
+
 
 def integerListToString(nums, len_of_list=None):
     if not len_of_list:

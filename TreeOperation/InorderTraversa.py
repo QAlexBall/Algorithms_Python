@@ -1,4 +1,6 @@
 import Tree
+
+
 class Solution(object):
     def inorderTraversal(self, root):
         """
@@ -8,14 +10,16 @@ class Solution(object):
         ret = []
         stack = []
         while root or stack:
-        	while root:
-        		stack.append(root)
-        		root = root.left
-        	if stack:
-        		t = stack.pop()
-        		ret.append(t.val)
-        		root = t.right
+            while root:
+                stack.append(root)
+                root = root.left
+            if stack:
+                t = stack.pop()
+                ret.append(t.val)
+                root = t.right
         return ret
+
+
 root = Tree.TreeNode(1)
 root.left = Tree.TreeNode(2)
 root.right = Tree.TreeNode(3)
