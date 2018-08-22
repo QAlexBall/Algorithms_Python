@@ -15,6 +15,7 @@ def stringToTreeNode(input):
         return None
 
     inputValues = [s.strip() for s in input.split(',')]
+    print("inputValues is: ", inputValues)
     root = TreeNode(int(inputValues[0]))
     nodeQueue = [root]
     front = 0
@@ -23,6 +24,7 @@ def stringToTreeNode(input):
         node = nodeQueue[front]
         front = front + 1
 
+        # add left son
         item = inputValues[index]
         index = index + 1
         if item != "null":
@@ -33,6 +35,7 @@ def stringToTreeNode(input):
         if index >= len(inputValues):
             break
 
+        # add right son
         item = inputValues[index]
         index = index + 1
         if item != "null":
@@ -48,8 +51,6 @@ def integerListToString(nums, len_of_list=None):
     return json.dumps(nums[:len_of_list])
 
 
-input = '123'
-stringToTreeNode(input)
 """
 s.strip(rm)        删除s字符串中开头、结尾处，位于 rm删除序列的字符
 s.lstrip(rm)       删除s字符串中开头处，位于 rm删除序列的字符

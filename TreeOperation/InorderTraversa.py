@@ -2,6 +2,8 @@ import Tree
 
 
 class Solution(object):
+
+    # inorderTraversal with stack
     def inorderTraversal(self, root):
         """
         :type root: TreeNode
