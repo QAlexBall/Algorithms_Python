@@ -32,6 +32,8 @@
           <option value="Tree" />
           <option value="Python_lxf.Web_Dev.WSGI.WSGI_test.hello" />
           <option value="Python_lxf.Asynchronous_IO.aiohttp_test.aiohttp" />
+          <option value="list.pop" />
+          <option value="list.size" />
         </list>
       </option>
     </inspection_tool>
