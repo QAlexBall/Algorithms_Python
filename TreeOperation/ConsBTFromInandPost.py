@@ -48,6 +48,27 @@ class Solution(object):
         node.right = self.buildTreeRecu(lookup, postorder, inorder, post_end - 1, i + 1, in_end)
         return node
 
+    def buildTreeFromPreAndIn(self, preorder, inorder):
+        """
+        :param preorder: List[int]
+        :param inorder: List[int]
+        :return: TreeNode
+        """
+        lookup = {}
+        for i, num in enumerate(inorder):
+            lookup[num] = i
+
+        def buildTreeRecu(lookup, preorder, inorder, pre_start, in_start, in_end):
+            if in_start == in_end:
+                return None
+            node = Tree.TreeNode(preorder[pre_start])
+            i = lookup[preorder[pre_start]]
+            node.left = buildTreeRecu(lookup, preorder, inorder, pre_start + 1, in_start, i)
+            node.right = buildTreeRecu(lookup, preorder, inorder, pre_start + i - in_start + 1, i + 1, in_end)
+            return node
+
+        return buildTreeRecu(lookup, preorder, inorder, 0, 0, len(inorder))
+
 
 def main():
     inorder = [9, 3, 15, 20, 7]
@@ -59,5 +80,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
