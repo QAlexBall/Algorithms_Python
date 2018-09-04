@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ccca8b-160d-4f37-9a69-8c89df9a89b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreeOperation/ConsBTFromInandPost.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreeOperation/ConsBTFromInandPost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_Questions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_Questions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/__base__.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/__base__.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/blogs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/test.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,30 +17,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algorithms_Python$Traversal.coverage" NAME="Traversal Coverage Results" MODIFIED="1535379895970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N-aryTree" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$Coroutine_Example.coverage" NAME="Coroutine_Example Coverage Results" MODIFIED="1535006470134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1534989063030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Web_Dev" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$InorderTraversa.coverage" NAME="InorderTraversa Coverage Results" MODIFIED="1534921038741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TreeOperation" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$coroweb.coverage" NAME="coroweb Coverage Results" MODIFIED="1535960496162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$coroweb.coverage" NAME="coroweb Coverage Results" MODIFIED="1536042892871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$flask_mvc_test.coverage" NAME="flask_mvc_test Coverage Results" MODIFIED="1535004781292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Web_Dev/MVC" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$Asyncio_test2.coverage" NAME="Asyncio_test2 Coverage Results" MODIFIED="1535009566034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$graphene_test.coverage" NAME="graphene_test Coverage Results" MODIFIED="1535906113860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_Core/Third_Moudle/graphene" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$WSGI_test.coverage" NAME="WSGI_test Coverage Results" MODIFIED="1534999403131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Web_Dev" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$ConsBTFromInandPost.coverage" NAME="ConsBTFromInandPost Coverage Results" MODIFIED="1535379892194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TreeOperation" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$Binary_Gap.coverage" NAME="Binary_Gap Coverage Results" MODIFIED="1534921043132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usual" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1535635921749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$TCP_Server.coverage" NAME="TCP_Server Coverage Results" MODIFIED="1534996811503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$Asyncio_test.coverage" NAME="Asyncio_test Coverage Results" MODIFIED="1535009474337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$orm.coverage" NAME="orm Coverage Results" MODIFIED="1535014491483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesome-python3-webapp/www" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$config.coverage" NAME="config Coverage Results" MODIFIED="1536045338795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$orm__1_.coverage" NAME="orm (1) Coverage Results" MODIFIED="1535618668291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$TkinterExample.coverage" NAME="TkinterExample Coverage Results" MODIFIED="1534984943837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tkinter" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$TCP_Programming.coverage" NAME="TCP_Programming Coverage Results" MODIFIED="1534996799690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$models.coverage" NAME="models Coverage Results" MODIFIED="1535619815802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$aiohttp_test.coverage" NAME="aiohttp_test Coverage Results" MODIFIED="1535005840032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$async_await_test.coverage" NAME="async_await_test Coverage Results" MODIFIED="1535010772401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$UDP_Server.coverage" NAME="UDP_Server Coverage Results" MODIFIED="1534997997298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1536071581435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$Traversal.coverage" NAME="Traversal Coverage Results" MODIFIED="1535379895970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/N-aryTree" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$Coroutine_Example.coverage" NAME="Coroutine_Example Coverage Results" MODIFIED="1535006470134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$InorderTraversa.coverage" NAME="InorderTraversa Coverage Results" MODIFIED="1534921038741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TreeOperation" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$Asyncio_test2.coverage" NAME="Asyncio_test2 Coverage Results" MODIFIED="1535009566034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$graphene_test.coverage" NAME="graphene_test Coverage Results" MODIFIED="1535906113860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_Core/Third_Moudle/graphene" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$WSGI_test.coverage" NAME="WSGI_test Coverage Results" MODIFIED="1534999403131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Web_Dev" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$ConsBTFromInandPost.coverage" NAME="ConsBTFromInandPost Coverage Results" MODIFIED="1535379892194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TreeOperation" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$Binary_Gap.coverage" NAME="Binary_Gap Coverage Results" MODIFIED="1534921043132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usual" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$TCP_Server.coverage" NAME="TCP_Server Coverage Results" MODIFIED="1534996811503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming" />
+    <SUITE FILE_PATH="coverage/Algorithms_Python$async_await_test.coverage" NAME="async_await_test Coverage Results" MODIFIED="1535010772401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
     <SUITE FILE_PATH="coverage/Algorithms_Python$Asyncio_test3.coverage" NAME="Asyncio_test3 Coverage Results" MODIFIED="1535010579474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/Asynchronous_IO" />
-    <SUITE FILE_PATH="coverage/Algorithms_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1535964352612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -46,51 +50,54 @@
     <session id="72409078">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="6" />
-          <entry key="project.open.time.12" value="6" />
+          <entry key="project.open.time.11" value="7" />
+          <entry key="project.open.time.12" value="7" />
           <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="20" />
+          <entry key="dummy" value="29" />
+          <entry key="html" value="227" />
           <entry key="md" value="506" />
-          <entry key="py" value="20337" />
+          <entry key="py" value="22300" />
           <entry key="sql" value="193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="227" />
           <entry key="Markdown" value="506" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="20337" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="22300" />
           <entry key="SQL" value="193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PNG" value="3" />
-          <entry key="html" value="3" />
+          <entry key="html" value="9" />
           <entry key="md" value="12" />
-          <entry key="py" value="112" />
+          <entry key="py" value="131" />
           <entry key="sql" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="9" />
           <entry key="Image" value="3" />
           <entry key="Markdown" value="12" />
-          <entry key="Python" value="112" />
+          <entry key="Python" value="131" />
           <entry key="SQL" value="5" />
         </counts>
       </usages-collector>
@@ -99,39 +106,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackTracking/GenerateParentheses.py">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="32">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#46#102#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TreeOperation/Tree.py">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/blogs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="34">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TreeOperation/InorderTraversa.py">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/__base__.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="595">
+              <caret line="83" column="7" lean-forward="true" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TreeOperation/ConsBTFromInandPost.py">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="66" column="94" selection-start-line="66" selection-start-column="94" selection-end-line="66" selection-end-column="94" />
+            <state relative-caret-position="272">
+              <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
               <folding>
-                <marker date="1535987404251" expanded="true" signature="2159:2495" ph="..." />
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1536066161123" expanded="true" signature="1954:2509" ph="..." />
+                <marker date="1536066161123" expanded="true" signature="2550:2555" ph="..." />
+                <marker date="1536066161123" expanded="true" signature="4199:4510" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="184" column="34" selection-start-line="184" selection-start-column="34" selection-end-line="184" selection-end-column="34" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,6 +181,7 @@
       <list>
         <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -153,12 +191,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python_Module" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Usual/TwoSum.py" />
         <option value="$PROJECT_DIR$/Usual/Reverse.py" />
         <option value="$PROJECT_DIR$/Usual/Binary_Gap.py" />
         <option value="$PROJECT_DIR$/TreeOperation/BSTIterator.py" />
@@ -191,7 +228,6 @@
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesome-python3-webapp/www/models.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/schema.sql" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/models.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/orm.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/test.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/apis.py" />
         <option value="$PROJECT_DIR$/BackTracking/GenerateParentheses.py" />
@@ -199,14 +235,18 @@
         <option value="$PROJECT_DIR$/../Python_Module/Python_Core/function/closure1.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_Core/Third_Moudle/graphene/graphene_test.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_Core/Web/urlopen_auth.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/app.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_default.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py" />
-        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config.py" />
         <option value="$PROJECT_DIR$/../Python_Module/Python_Questions/README.md" />
         <option value="$PROJECT_DIR$/TreeOperation/ConsBTFromInandPost.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/orm.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/app.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/blogs.html" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/__base__.html" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/test.html" />
+        <option value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py" />
       </list>
     </option>
   </component>
@@ -216,10 +256,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="960" />
+    <option name="y" value="20" />
     <option name="width" value="960" />
-    <option name="height" value="1080" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -229,6 +270,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,21 +281,16 @@
             <path>
               <item name="Algorithms_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="BackTracking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="TreeOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="Usual" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="ORM&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect" value="MySQL" />
@@ -278,6 +315,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.app">
+    <configuration name="__base__.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Algorithms_Python/Python_lxf/awesomepython3webapp/www/templates/__base__.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Algorithms_Python/Python_lxf/awesomepython3webapp/www/templates/test.html">
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,6 +343,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="coroweb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,72 +379,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="graphene_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Module" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Module/Python_Core/Third_Moudle/graphene" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Module/Python_Core/Third_Moudle/graphene/graphene_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Module" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/models.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Module" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,19 +413,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.DjangoTEST" />
-      <item itemvalue="Python.models" />
       <item itemvalue="Python.app" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.graphene_test" />
       <item itemvalue="Python.coroweb" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript Debug.__base__.html" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="JavaScript Debug.__base__.html" />
+        <item itemvalue="Python.config" />
         <item itemvalue="Python.coroweb" />
-        <item itemvalue="Python.graphene_test" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.models" />
+        <item itemvalue="JavaScript Debug.test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -444,15 +443,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="960" y="20" width="960" height="1060" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2741228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3859649" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80635244" weight="0.3810021" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80635244" weight="0.36780384" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,31 +507,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming/TCP_Server.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming/Net_Programming.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming/UDP_Server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/Python_Basic_Operation/Network_Programming/TCP_Server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/Web_Dev/WSGI/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -715,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/asyncio/base_events.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="467" selection-start-line="467" selection-end-line="467" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/schema.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -746,87 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/apis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <marker date="1535638518570" expanded="true" signature="98:103" ph="..." />
-            <marker date="1535638518570" expanded="true" signature="423:428" ph="..." />
-            <marker date="1535638518570" expanded="true" signature="705:710" ph="..." />
-            <marker date="1535638518570" expanded="true" signature="971:976" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Python_Module/Python_Core/Web/urlopen_auth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="229" column="34" lean-forward="true" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
-          <folding>
-            <element signature="e#25#39#0" expanded="true" />
-            <marker date="1535960496156" expanded="true" signature="6860:7159" ph="..." />
-            <marker date="1535960496156" expanded="true" signature="7184:7189" ph="..." />
-            <marker date="1535960496156" expanded="true" signature="7876:7881" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-            <marker date="1535635921722" expanded="true" signature="164:169" ph="..." />
-            <marker date="1535635921722" expanded="true" signature="444:593" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#65#76#0" expanded="true" />
-            <marker date="1535620654228" expanded="true" signature="431:435" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/orm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_default.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -840,16 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1535968148687" expanded="true" signature="156:161" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/N-aryTree/Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -857,46 +736,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/app.py">
+    <entry file="file://$PROJECT_DIR$/TreeOperation/InorderTraversa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1535964352604" expanded="true" signature="1953:2508" ph="..." />
-            <marker date="1535964352604" expanded="true" signature="2549:2554" ph="..." />
-            <marker date="1535964352604" expanded="true" signature="4198:4509" ph="..." />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BackTracking/GenerateParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeOperation/Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TreeOperation/InorderTraversa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="508">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeOperation/ConsBTFromInandPost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="66" column="94" selection-start-line="66" selection-start-column="94" selection-end-line="66" selection-end-column="94" />
+        <state relative-caret-position="944">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/aiohttp/web_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4450">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/asynctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/apis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
           <folding>
-            <marker date="1535987404251" expanded="true" signature="2159:2495" ph="..." />
+            <marker date="1535638518570" expanded="true" signature="98:103" ph="..." />
+            <marker date="1535638518570" expanded="true" signature="423:428" ph="..." />
+            <marker date="1535638518570" expanded="true" signature="705:710" ph="..." />
+            <marker date="1535638518570" expanded="true" signature="971:976" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/orm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <marker date="1536045338772" expanded="true" signature="162:167" ph="..." />
+            <marker date="1536045338772" expanded="true" signature="662:1263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/config_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/__base__.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="83" column="7" lean-forward="true" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/blogs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/coroweb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="184" column="34" selection-start-line="184" selection-start-column="34" selection-end-line="184" selection-end-column="34" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#46#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Module/Python_lxf/awesomepython3webapp/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1536066161123" expanded="true" signature="1954:2509" ph="..." />
+            <marker date="1536066161123" expanded="true" signature="2550:2555" ph="..." />
+            <marker date="1536066161123" expanded="true" signature="4199:4510" ph="..." />
           </folding>
         </state>
       </provider>

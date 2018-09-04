@@ -69,7 +69,6 @@ class Solution(object):
 
         return buildTreeRecu(lookup, preorder, inorder, 0, 0, len(inorder))
 
-
 def main():
     inorder = [9, 3, 15, 20, 7]
     postorder = [9, 15, 7, 20, 3]
