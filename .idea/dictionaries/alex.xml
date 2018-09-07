@@ -2,8 +2,13 @@
   <dictionary name="alex">
     <words>
       <w>asyncio</w>
+      <w>blogs</w>
+      <w>coroutine</w>
+      <w>jinja</w>
       <w>passwd</w>
       <w>signin</w>
+      <w>signout</w>
+      <w>uikit</w>
     </words>
   </dictionary>
 </component>
