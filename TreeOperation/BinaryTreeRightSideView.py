@@ -27,4 +27,4 @@ class Solution(object):
                 if root.right is not None:
                     q.append(root.right)
             L.append(l[-1])
-        return L
+        return
